@@ -76,8 +76,6 @@ Resolve-DnsName xbox.com -Server 111.88.96.50
 
 ## Шаг 4 (опционально). Дамп трафика
 
-Этот шаг нужен только если попросит поддержка.
-
 Скачайте **Wireshark**: [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
 
 1. Откройте Wireshark
@@ -100,4 +98,4 @@ Resolve-DnsName xbox.com -Server 111.88.96.50
 
 ---
 
-*Xbox DNS | @xbox_dns*
+Xbox DNS | @xbox_dns
